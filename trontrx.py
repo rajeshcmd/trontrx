@@ -32,6 +32,7 @@ def check_balance(address: str, api_key: str):
     return balance
 
 if __name__ == "__main__":
+    #OKX Wallet Seed
     mnemonic_phrase = "tissue polar basket gold fly spirit close weasel coffee gesture myself light"
     trongrid_api_key = "9335bd23-e6c7-4f54-9e29-5071faa5c0e1"
     
